@@ -10,5 +10,6 @@ public class Library {
     
     public static void main(String arg[]) {
     	System.out.println("hahaha");
+    	System.out.println("xixixi");
     }
 }
